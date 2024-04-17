@@ -1,0 +1,17 @@
+1)reverse of the String,use Scanner
+2)Write a Java program to get the character at the given index within the string.
+ 3)Given a string, compute a new string where identical chars that are adjacent in the original string are separated from each other by a "*".
+Examples are as shown below::
+function name is public String pairStar(String str)
+
+ pairStar("hello") → "hel*lo"
+ pairStar("xxyy") → "x*xy*y"
+ pairStar("aaaa") → "a*a*a*a"
+ 4) Given a string, compute a new string where all the lowercase 'x' chars have been moved to the end of the string.
+
+   Examples are as shown below::
+   function name is public String endX(String str)
+
+   endX("xxre") → "rexx"
+   endX("xxhixx") → "hixxxx"
+   endX("xhixhix") → "hihixxx"
