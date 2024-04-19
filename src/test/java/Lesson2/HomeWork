@@ -3,4 +3,4 @@
 б)Вывести букву под индексом 4
 в)Вывсти индекс буквы j
 г) добавть в эту фразу and QA Automation (должно вывексти I love java nd QA Automation)
-2)Проверить через boolean что фраза I love java типа String
+2)Проверить через booln что фраза I love java типа String

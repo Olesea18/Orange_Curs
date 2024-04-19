@@ -10,7 +10,19 @@ public class Dowhile {
         }
         while (i<15);
 
+        int a = 12;
+        do {
+            a++;
+            System.out.println(a);
+        }
+        while (a<14);
 
+        int b=10;
+        do{
+            b--;
+            System.out.println(b);
+        }
+        while(b>1);
     }
 }
 

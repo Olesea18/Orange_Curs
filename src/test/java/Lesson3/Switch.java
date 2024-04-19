@@ -18,6 +18,21 @@ package Lesson3;
                     System.out.println("This company not existed");
             }
 
+            int price = 500;
+            switch (price){
+                case 500:
+                    System.out.println("Bingo");
+                    break;
+                case 600:
+                    System.out.println("too expensive");
+                    break;
+                case 200:
+                    System.out.println("too cheap");
+                    break;
+                default:
+                    System.out.println(false);
+            }
+
         }
     }
 
